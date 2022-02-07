@@ -1,4 +1,6 @@
 # Image-parameters
+ This code produces optimal image parameters for generating an image from calibrated visibilities.
+
 cell size, image size, threshold
 
 Options:
