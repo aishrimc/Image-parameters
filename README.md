@@ -2,7 +2,6 @@
 cell size, image size, threshold
 
 
-
 Options:
   -h, --help        show this help message and exit
   --diameter        Diameter of Single Disk; Default = 45m (GMRT)
